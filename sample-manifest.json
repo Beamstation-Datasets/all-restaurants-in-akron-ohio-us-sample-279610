@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c2af8733-9190-433e-99cc-53d253d66922",
+  "id_short": 279610,
+  "published_at": "2026-04-11T19:14:37Z",
+  "repo_name": "all-restaurants-in-akron-ohio-us-sample-279610",
+  "sample_asset_name": "beamstation_279610_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/279610/beamstation_279610_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "25ebbfee4085324d17a3924da6e671f4bbf62ede14d6b326a9d18b8eefaaff16",
+  "sample_size_bytes": 113239,
+  "total_records": 266
+}
